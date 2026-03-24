@@ -1128,25 +1128,6 @@ Userscripts can be used w/ the following browsers:
             Report bug</a>
     </blockquote>
 </details>
-
-<details> <!-- Endless Google -->
-    <summary><a href="https://openuserjs.org/scripts/tumpio/Endless_Google">Endless Google</a> - Load more results automatically and endlessly.</summary><br>
-    <blockquote>
-        <a href="https://openuserjs.org/scripts/tumpio/Endless_Google">
-            <img width=600 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/endless-google.png"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://openuserjs.org/install/tumpio/Endless_Google.user.js">
-            Install</a> /
-        📖 <a href="https://openuserjs.org/scripts/tumpio/Endless_Google">
-            Readme</a> /
-        📢 <a href="https://github.com/tumpio/gmscripts/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/tumpio/gmscripts/issues">
-            Report bug</a>
-    </blockquote>
-</details>
-
 <details> <!-- GoogleGPT -->
     <summary><a href="https://www.googlegpt.io">GoogleGPT</a> - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.</summary><br>
     <blockquote>
@@ -1243,25 +1224,6 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
-<details> <!-- Select text inside a link like Opera -->
-    <summary><a href="https://github.com/eight04/select-text-inside-a-link-like-opera">Select text inside a link like Opera</a> - Disable link dragging and select text.</summary><br>
-    <blockquote>
-        <a href="https://github.com/eight04/select-text-inside-a-link-like-opera">
-            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/select-text-inside-a-link-like-opera.png"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://update.greasyfork.org/scripts/789/Select%20text%20inside%20a%20link%20like%20Opera.user.js">
-            Install</a> /
-        📖 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/#readme">
-            Readme</a> /
-        📢 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/issues">
-            Report bug</a>
-    </blockquote>
-</details>
-
-
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/play/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/play/black/icon32.png"></picture> Media
 
 <details> <!-- Double-click Image Downloader -->
@@ -1356,44 +1318,7 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
-<details> <!-- Show and reload broken images -->
-    <summary><a href="https://greasyfork.org/scripts/790-show-and-reload-broken-images">Show and reload broken images</a> - Show and reload broken images, even when it contains "alt" tag.</summary><br>
-    <blockquote>
-        <a href="https://greasyfork.org/scripts/790-show-and-reload-broken-images">
-            <img width=411 src="https://i.imgur.com/EwrhEpi.png"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://update.greasyfork.org/scripts/790/Show%20and%20reload%20broken%20images.user.js">
-            Install</a> /
-        📖 <a href="https://github.com/eight04/show-and-reload-broken-images/#readme">
-            Readme</a> /
-        📢 <a href="https://github.com/eight04/show-and-reload-broken-images/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/eight04/show-and-reload-broken-images/issues">
-            Report bug</a>
-    </blockquote>
-</details>
-
-
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/nav/white/icon32.png"><img height=12 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/nav/black/icon32.png"></picture> Navigation
-
-<details> <!-- Endless Google -->
-    <summary><a href="https://openuserjs.org/scripts/tumpio/Endless_Google">Endless Google</a> - Load more results automatically and endlessly.</summary><br>
-    <blockquote>
-        <a href="https://openuserjs.org/scripts/tumpio/Endless_Google">
-            <img width=600 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/endless-google.png"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://openuserjs.org/install/tumpio/Endless_Google.user.js">
-            Install</a> /
-        📖 <a href="https://openuserjs.org/scripts/tumpio/Endless_Google">
-            Readme</a> /
-        📢 <a href="https://github.com/tumpio/gmscripts/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/tumpio/gmscripts/issues">
-            Report bug</a>
-    </blockquote>
-</details>
 
 <details> <!-- Pagetual -->
     <summary><a href="https://pagetual.hoothin.com">Pagetual</a> - Add seamless infinite scrolling to thousands of sites.</summary><br>
