@@ -926,6 +926,19 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+
+<details> <!-- Font Rendering (Customized) -->
+    <summary><a href="https://github.com/F9y4ng/GreasyFork-Scripts">Font Rendering (Customized)</a> - Customize font rendering on any website: font replacement, anti-aliasing, stroke, shadow, and more.</summary><br>
+    <blockquote>
+        💾 <a href="https://greasyfork.org/scripts/416688">
+            Install</a> /
+        📖 <a href="https://github.com/F9y4ng/GreasyFork-Scripts#readme">
+            Readme</a> /
+        🐛 <a href="https://github.com/F9y4ng/GreasyFork-Scripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/duckduckgo/white/icon32.png"><img height=18 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/duckduckgo/icon32.png"></picture> DuckDuckGo
 
 <details> <!-- DuckDuckGPT -->
