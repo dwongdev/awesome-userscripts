@@ -1206,6 +1206,7 @@ Userscripts can be used w/ the following browsers:
             Report bug</a>
     </blockquote>
 </details>
+
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/play/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/play/black/icon32.png"></picture> Media
 
 <details> <!-- Double-click Image Downloader -->
