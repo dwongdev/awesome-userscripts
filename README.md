@@ -762,6 +762,22 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- ChatGPT Exporter -->
+    <summary><a href="https://github.com/pionxzh/chatgpt-exporter">ChatGPT Exporter</a> - Export and share your ChatGPT conversation history (Markdown, JSON, PNG, PDF).</summary><br>
+    <blockquote>
+        <a href="https://github.com/pionxzh/chatgpt-exporter">
+            <img width=511 src="https://raw.githubusercontent.com/nicepkg/gpt-runner/refs/heads/main/docs/public/logo-banner.svg"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://greasyfork.org/scripts/456055">
+            Install</a> /
+        📖 <a href="https://github.com/pionxzh/chatgpt-exporter#readme">
+            Readme</a> /
+        🐛 <a href="https://github.com/pionxzh/chatgpt-exporter/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- ChatGPT Infinity -->
     <summary><a href="https://www.chatgptinfinity.com">ChatGPT Infinity</a> - Generate endless answers from all-knowing ChatGPT (on any topic!)</summary><br>
     <blockquote>
@@ -830,6 +846,22 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://github.com/KudoAI/googlegpt/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/KudoAI/googlegpt/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- KeepChatGPT -->
+    <summary><a href="https://github.com/xcanwin/KeepChatGPT">KeepChatGPT</a> - Auto-refresh, session keep-alive, data security, audit cancellation, conversation cloning, unlimited characters, page purification, full-screen display, and more.</summary><br>
+    <blockquote>
+        <a href="https://github.com/xcanwin/KeepChatGPT">
+            <img width=511 src="https://raw.githubusercontent.com/xcanwin/KeepChatGPT/main/assets/preview_en.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://greasyfork.org/scripts/462804">
+            Install</a> /
+        📖 <a href="https://github.com/xcanwin/KeepChatGPT#readme">
+            Readme</a> /
+        🐛 <a href="https://github.com/xcanwin/KeepChatGPT/issues">
             Report bug</a>
     </blockquote>
 </details>
