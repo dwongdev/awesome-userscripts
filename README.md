@@ -1267,6 +1267,22 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- HTML5 Video Player Tools (h5player) -->
+    <summary><a href="https://github.com/xxxily/h5player">HTML5 Video Player Tools</a> - Variable speed playback, screenshot, video download, picture-in-picture, full-screen, and keyboard shortcuts for all HTML5 video sites (YouTube, Bilibili, TikTok, etc).</summary><br>
+    <blockquote>
+        <a href="https://github.com/xxxily/h5player">
+            <img width=511 src="https://raw.githubusercontent.com/nicepkg/gpt-runner/refs/heads/main/docs/public/logo-banner.svg"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://greasyfork.org/scripts/381682">
+            Install</a> /
+        📖 <a href="https://github.com/xxxily/h5player#readme">
+            Readme</a> /
+        🐛 <a href="https://github.com/xxxily/h5player/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- Image Max URL -->
     <summary><a href="https://github.com/qsniyg/maxurl">Image Max URL</a> - Finds larger or original versions of images/videos for thousands of supported websites, including a customizable image popup feature.</summary><br>
     <blockquote>
