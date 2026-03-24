@@ -766,7 +766,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/pionxzh/chatgpt-exporter">ChatGPT Exporter</a> - Export and share your ChatGPT conversation history (Markdown, JSON, PNG, PDF).</summary><br>
     <blockquote>
         <a href="https://github.com/pionxzh/chatgpt-exporter">
-            <img width=511 src="https://raw.githubusercontent.com/nicepkg/gpt-runner/refs/heads/main/docs/public/logo-banner.svg"></a>
+            <img width=511 src="https://github.com/pionxzh/chatgpt-exporter/assets/9910706/1c864670-7912-4484-b4be-bdf5dde51557"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://greasyfork.org/scripts/456055">
@@ -854,7 +854,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/xcanwin/KeepChatGPT">KeepChatGPT</a> - Auto-refresh, session keep-alive, data security, audit cancellation, conversation cloning, unlimited characters, page purification, full-screen display, and more.</summary><br>
     <blockquote>
         <a href="https://github.com/xcanwin/KeepChatGPT">
-            <img width=511 src="https://raw.githubusercontent.com/xcanwin/KeepChatGPT/main/assets/preview_en.png"></a>
+            <img width=511 src="https://cdn.jsdelivr.net/gh/xcanwin/KeepChatGPT@f65c751/assets/chat_light.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://greasyfork.org/scripts/462804">
@@ -1271,7 +1271,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/xxxily/h5player">HTML5 Video Player Tools</a> - Variable speed playback, screenshot, video download, picture-in-picture, full-screen, and keyboard shortcuts for all HTML5 video sites (YouTube, Bilibili, TikTok, etc).</summary><br>
     <blockquote>
         <a href="https://github.com/xxxily/h5player">
-            <img width=511 src="https://raw.githubusercontent.com/nicepkg/gpt-runner/refs/heads/main/docs/public/logo-banner.svg"></a>
+            <img width=511 src="https://h5player.anzz.top/assets/img/h5player_ui.jpg"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://greasyfork.org/scripts/381682">
