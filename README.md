@@ -769,7 +769,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://github.com/pionxzh/chatgpt-exporter/assets/9910706/1c864670-7912-4484-b4be-bdf5dde51557"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://greasyfork.org/scripts/456055">
+        💾 <a href="https://update.greasyfork.org/scripts/456055/ChatGPT%20Exporter.user.js">
             Install</a> /
         📖 <a href="https://github.com/pionxzh/chatgpt-exporter#readme">
             Readme</a> /
@@ -857,7 +857,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/xcanwin/KeepChatGPT@f65c751/assets/chat_light.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://greasyfork.org/scripts/462804">
+        💾 <a href="https://update.greasyfork.org/scripts/462804/KeepChatGPT.user.js">
             Install</a> /
         📖 <a href="https://github.com/xcanwin/KeepChatGPT#readme">
             Readme</a> /
@@ -1253,7 +1253,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://h5player.anzz.top/assets/img/h5player_ui.jpg"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://greasyfork.org/scripts/381682">
+        💾 <a href="https://update.greasyfork.org/scripts/381682/%E9%9F%B3%E8%A7%86%E9%A2%91%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC%EF%BC%9A%E6%97%A0%E6%9E%81%E8%B0%83%E9%80%9F%7C%E5%80%8D%E9%80%9F%E5%BF%AB%E5%AD%A6%7C%E5%BF%AB%E4%B9%90%E5%88%B7%E5%89%A7%7C%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%7C%E7%94%BB%E9%9D%A2%E6%88%AA%E5%9B%BE%E7%AD%89%E3%80%8C%E9%80%82%E7%94%A8%E5%A4%A7%E9%83%A8%E5%88%86%E7%BD%91%E7%AB%99%E3%80%8D.user.js">
             Install</a> /
         📖 <a href="https://github.com/xxxily/h5player#readme">
             Readme</a> /
