@@ -931,7 +931,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/F9y4ng/GreasyFork-Scripts/blob/master/README_EN.md#font-rendering-customized-font-renderinguserjs">Font Rendering (Customized)</a> - Customize font rendering on any website: font replacement, anti-aliasing, stroke, shadow, and more.</summary><br>
     <blockquote>
         <a href="https://github.com/F9y4ng/GreasyFork-Scripts/blob/master/README_EN.md#font-rendering-customized-font-renderinguserjs">
-            <img width=720 src="https://private-user-images.githubusercontent.com/15855068/292612185-9632354e-1c7a-4f10-a197-2e7337f0d5ca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQzOTE1OTAsIm5iZiI6MTc3NDM5MTI5MCwicGF0aCI6Ii8xNTg1NTA2OC8yOTI2MTIxODUtOTYzMjM1NGUtMWM3YS00ZjEwLWExOTctMmU3MzM3ZjBkNWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzI0VDIyMjgxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2ZWI1ZWUzNDk5YTc4MDExOTVlOGNjYzk4MzMyNGY5YzE1NGEyYzdiMWM4YzNkNTM5YjRjOWFkMWU4MDAwY2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.l0E-IRei9LKsoN8AkRMDzQdl2Z_udHmTBJC"></a>
+            <img width=720 src="https://raw.githubusercontent.com/F9y4ng/GreasyFork-Scripts/master/images/Font%20Rendering/preview_en.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://update.greasyfork.org/scripts/416688/%E5%AD%97%E4%BD%93%E6%B8%B2%E6%9F%93%EF%BC%88%E8%87%AA%E7%94%A8%E8%84%9A%E6%9C%AC%EF%BC%89.user.js">
