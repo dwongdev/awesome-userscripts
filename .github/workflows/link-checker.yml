@@ -19,9 +19,9 @@ jobs:
         uses: actions/checkout@v6.0.2
 
       - name: Check links
-        uses: lycheeverse/lychee-action@v2
+        uses: lycheeverse/lychee-action@v2.8.0
         with:
           # Check all markdown files, but ignore local fragments and common anti-bot/rate-limited endpoints
-          args: --verbose --no-progress --max-retries 3 --accept 200..299,300..399,403,429 --exclude "googlegpt\.io" --exclude "ghostbrowser\.com" "*.md" "**/*.md"
+          args: --verbose --no-progress --max-retries 3 --accept 200..299,300..399,403,429 --exclude "googlegpt\.io" --exclude "ghostbrowser\.com" "*.md" "**/*.md" --exclude api\.star-history\.com
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
