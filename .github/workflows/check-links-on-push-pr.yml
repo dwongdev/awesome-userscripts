@@ -22,6 +22,10 @@ jobs:
         uses: lycheeverse/lychee-action@v2.8.0
         with:
           # Check all markdown files, but ignore local fragments and common anti-bot/rate-limited endpoints
-          args: --verbose --no-progress --accept 200..299,300..399,403,429 --exclude "ghostbrowser\.com" "*.md" "**/*.md" --exclude api\.star-history\.com
+          args: >
+            "*.md" "**/*.md"
+            --verbose --no-progress
+            --accept 200..299,300..399,403,429
+            --exclude "ghostbrowser\.com" --exclude api\.star-history\.com
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
