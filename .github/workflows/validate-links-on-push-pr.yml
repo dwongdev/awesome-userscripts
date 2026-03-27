@@ -18,6 +18,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6.0.2
 
+      - name: Restore lychee cache
+        id: restore-cache
+        uses: actions/cache/restore@v5.0.4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
       - name: Validate links
         uses: lycheeverse/lychee-action@v2.8.0
         with:
@@ -29,3 +37,10 @@ jobs:
             --exclude api\.star-history\.com --exclude ghostbrowser\.com
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+      - name: Save lychee cache
+        uses: actions/cache/save@v5.0.4
+        if: always()
+        with:
+          path: .lycheecache
+          key: ${{ steps.restore-cache.outputs.cache-primary-key }}
