@@ -874,6 +874,14 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- Play sound when finish generating -->
+    <summary><a href="https://greasyfork.org/en/scripts/564339-chatgpt-play-sound-when-finish-generating">Play sound when finish generating</a> - Plays the medkit sound from hl2 when chatgpt finishes answering.</summary><br>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/564339/ChatGPT%20play%20sound%20when%20finish%20generating.user.js">
+            Install</a>
+    </blockquote>
+</details>
+
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/discord/white/icon256.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/discord/icon256.png"></picture> Discord
 
 <details> <!-- Undiscord -->
