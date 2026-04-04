@@ -796,6 +796,14 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- ChatGPT play sound when finish generating -->
+    <summary><a href="https://greasyfork.org/scripts/564339-chatgpt-play-sound-when-finish-generating">ChatGPT play sound when finish generating</a> - Plays the medkit sound from Half-Life 2 when ChatGPT finishes answering.</summary><br>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/564339/ChatGPT%20play%20sound%20when%20finish%20generating.user.js">
+            Install</a>
+    </blockquote>
+</details>
+
 <details> <!-- ChatGPT Widescreen -->
     <summary><a href="https://www.chatgptwidescreen.com">ChatGPT Widescreen</a> - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!</summary><br>
     <blockquote>
@@ -863,14 +871,6 @@ Userscripts can be used w/ the following browsers:
             Readme</a> /
         🐛 <a href="https://github.com/xcanwin/KeepChatGPT/issues">
             Report bug</a>
-    </blockquote>
-</details>
-
-<details> <!-- Play sound when finish generating -->
-    <summary><a href="https://greasyfork.org/en/scripts/564339-chatgpt-play-sound-when-finish-generating">Play sound when finish generating</a> - Plays the medkit sound from hl2 when chatgpt finishes answering.</summary><br>
-    <blockquote>
-        💾 <a href="https://update.greasyfork.org/scripts/564339/ChatGPT%20play%20sound%20when%20finish%20generating.user.js">
-            Install</a>
     </blockquote>
 </details>
 
