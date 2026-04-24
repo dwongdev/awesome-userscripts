@@ -1,4 +1,5 @@
 {
+  "name": "awesome-userscripts",
   "scripts": {
     "prepare": "husky",
     "lint": "eslint . --cache",
