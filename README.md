@@ -36,7 +36,6 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [GitHub](#-github)
   - [Google](#-google)
   - [Instagram](#-instagram)
-  - [Just Eat (UK)](#-just-eat-uk)
   - [Links](#-links)
   - [Media](#-media)
   - [Navigation](#-navigation)
@@ -1180,27 +1179,6 @@ Userscripts can be used w/ the following browsers:
         📖 <a href="https://github.com/Zingzy/instagram-background-play#readme">
             Readme</a> /
         🐛 <a href="https://github.com/Zingzy/instagram-background-play/issues">
-            Report bug</a>
-    </blockquote>
-</details>
-
-
-### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/just-eat/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/just-eat/icon32.png"></picture> Just Eat (UK)
-
-<details> <!-- Just Eat Userscript -->
-    <summary><a href="https://github.com/S4N-T0S/JustEat-userscript">Just Eat Userscript</a> - Adds dark mode and advanced filters to Just Eat UK.</summary><br>
-    <blockquote>
-        <a href="https://github.com/S4N-T0S/JustEat-userscript">
-            <img width=511 src="https://cdn.jsdelivr.net/gh/S4N-T0S/JustEat-userscript@7905e8b/example.png"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://github.com/S4N-T0S/JustEat-userscript/raw/refs/heads/main/JustEat.user.js">
-            Install</a> /
-        📖 <a href="https://github.com/S4N-T0S/JustEat-userscript/#readme">
-            Readme</a> /
-        📢 <a href="https://github.com/S4N-T0S/JustEat-userscript/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/S4N-T0S/JustEat-userscript/issues">
             Report bug</a>
     </blockquote>
 </details>
