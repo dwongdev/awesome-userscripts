@@ -1175,7 +1175,7 @@ Userscripts can be used w/ the following browsers:
 <details> <!-- Instagram Background Play -->
     <summary><a href="https://github.com/Zingzy/instagram-background-play#readme">Instagram Background Play</a> - Keeps Instagram videos and reels playing when you switch tabs or windows, and keeps picture-in-picture live instead of frozen.</summary><br>
     <blockquote>
-        💾 <a href="https://greasyfork.org/en/scripts/590737-instagram-background-play">
+        💾 <a href="https://raw.githubusercontent.com/Zingzy/instagram-background-play/main/instagram-background-play.user.js">
             Install</a> /
         📖 <a href="https://github.com/Zingzy/instagram-background-play#readme">
             Readme</a> /
