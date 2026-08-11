@@ -35,6 +35,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [DuckDuckGo](#-duckduckgo)
   - [GitHub](#-github)
   - [Google](#-google)
+  - [Instagram](#-instagram)
   - [Just Eat (UK)](#-just-eat-uk)
   - [Links](#-links)
   - [Media](#-media)
@@ -1164,6 +1165,21 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://github.com/LostInBrittany/share-google-slides-control/issues">
             Discuss</a> /
         🐛 <a href="https://github.com/LostInBrittany/share-google-slides-control/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+
+### <img height=19 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@master/assets/images/icons/sites/instagram/icon32.png"> Instagram
+
+<details> <!-- Instagram Background Play -->
+    <summary><a href="https://github.com/Zingzy/instagram-background-play#readme">Instagram Background Play</a> - Keeps Instagram videos and reels playing when you switch tabs or windows, and keeps picture-in-picture live instead of frozen.</summary><br>
+    <blockquote>
+        💾 <a href="https://greasyfork.org/en/scripts/590737-instagram-background-play">
+            Install</a> /
+        📖 <a href="https://github.com/Zingzy/instagram-background-play#readme">
+            Readme</a> /
+        🐛 <a href="https://github.com/Zingzy/instagram-background-play/issues">
             Report bug</a>
     </blockquote>
 </details>
