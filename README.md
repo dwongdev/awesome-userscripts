@@ -77,6 +77,12 @@ Userscripts can be used w/ the following browsers:
                 <a href="https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo"
                    title="Install Tampermonkey for Chrome">
                         Tampermonkey</a><sup>1</sup>
+                <a href="https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag"
+                   title="Install Violentmonkey for Chrome">
+                        <img width=16 src="https://cdn.staticdelivr.com/gl/adamlui/userscripts/9cbcecc/assets/images/icons/userscript-managers/violentmonkey/icon25.png"></a>
+                <a href="https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag"
+                   title="Install Violentmonkey for Chrome">
+                        Violentmonkey</a><sup>2</sup>
                 <a href="https://chromewebstore.google.com/detail/scriptcat/ndcooeababalnlpkfedmmbbbgkljhpjf"
                    title="Install ScriptCat for Chrome">
                         <img width=16 src="https://cdn.staticdelivr.com/gl/adamlui/userscripts/9cbcecc/assets/images/icons/userscript-managers/scriptcat/icon16.png"></a>
