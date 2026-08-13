@@ -542,37 +542,33 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- Block Quora Poe -->
-    <summary><a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">Block Quora Poe</a> - Blocks low-quality AI + Promoted/Sponsored answers from Quora.</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/userscripts/src/branch/master/block-quora-poe/#readme">Block Quora Poe</a> - Blocks low-quality AI + Promoted/Sponsored answers from Quora.</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
+        <a href="https://codeberg.org/adamlui/userscripts/src/branch/master/block-quora-poe/#readme">
             <img width=511 src="https://cdn.staticdelivr.com/gl/adamlui/userscripts/a1eefef/block-quora-poe/assets/images/screenshots/demo.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/6906/block-quora-poe.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
+        📖 <a href="https://codeberg.org/adamlui/userscripts/src/branch/master/block-quora-poe/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/userscripts/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/userscripts/issues">
+        🐛 <a href="https://codeberg.org/adamlui/userscripts/issues">
             Report bug</a>
     </blockquote>
 </details>
 
 <details> <!-- ChatGPT Widescreen -->
-    <summary><a href="https://github.com/adamlui/chatgpt-widescreen/#readme">ChatGPT Widescreen</a> - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/chatgpt-widescreen/#readme">ChatGPT Widescreen</a> - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/chatgpt-widescreen/#readme">
+        <a href="https://codeberg.org/adamlui/chatgpt-widescreen/#readme">
             <img width=600 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-widescreen/0ba78c7/assets/images/tiles/marquee/tile-625x250.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/6328/chatgpt-widescreen.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/chatgpt-widescreen/#readme">
+        📖 <a href="https://codeberg.org/adamlui/chatgpt-widescreen/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-widescreen/issues">
+        🐛 <a href="https://codeberg.org/adamlui/chatgpt-widescreen/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -691,19 +687,17 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- Autoclear ChatGPT History -->
-    <summary><a href="https://github.com/adamlui/autoclear-chatgpt-history/#readme">Autoclear ChatGPT History</a> - Auto-clears chat history when visiting chatgpt.com for maximum privacy.</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/#readme">Autoclear ChatGPT History</a> - Auto-clears chat history when visiting chatgpt.com for maximum privacy.</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/autoclear-chatgpt-history/#readme">
-            <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/autoclear-chatgpt-history@4f5c5fa/assets/images/screenshots/demo.png"></a>
+        <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/#readme">
+            <img width=511 src="https://cdn.staticdelivr.com/gl/adamlui/autoclear-chatgpt-history/30efed0/assets/images/screenshots/demo.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/adamlui/autoclear-chatgpt-history/refs/heads/main/greasemonkey/autoclear-chatgpt-history.user.js">
+        💾 <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/raw/branch/main/greasemonkey/autoclear-chatgpt-history.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/autoclear-chatgpt-history/#readme">
+        📖 <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/autoclear-chatgpt-history/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/autoclear-chatgpt-history/issues">
+        🐛 <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -727,57 +721,51 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- ChatGPT Auto-Continue -->
-    <summary><a href="https://github.com/adamlui/chatgpt-auto-continue/#readme">ChatGPT Auto-Continue</a> - Automatically continue generating answers when ChatGPT responses get cut-off.</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/ai-web-extensions/src/branch/main/chatgpt-auto-continue/#readme">ChatGPT Auto-Continue</a> - Automatically continue generating answers when ChatGPT responses get cut-off.</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/chatgpt-auto-continue/#readme">
-            <img width=600 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-auto-continue@eb96a05/assets/images/tiles/marquee/tile625x250.png"></a>
+        <a href="https://codeberg.org/adamlui/ai-web-extensions/src/branch/main/chatgpt-auto-continue/#readme">
+            <img width=600 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-auto-continue/3d5b5b0/assets/images/tiles/marquee/tile625x250.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/adamlui/chatgpt-auto-continue/refs/heads/main/greasemonkey/chatgpt-auto-continue.user.js">
+        💾 <a href="https://codeberg.org/adamlui/ai-web-extensions/raw/branch/main/chatgpt-auto-continue/greasemonkey/chatgpt-auto-continue.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/chatgpt-auto-continue/#readme">
+        📖 <a href="https://codeberg.org/adamlui/ai-web-extensions/src/branch/main/chatgpt-auto-continue/docs/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-auto-continue/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-auto-continue/issues">
+        🐛 <a href="https://codeberg.org/adamlui/ai-web-extensions/issues">
             Report bug</a>
     </blockquote>
 </details>
 
 <details> <!-- ChatGPT Auto Refresh -->
-    <summary><a href="https://github.com/adamlui/chatgpt-auto-refresh/#readme">ChatGPT Auto Refresh</a> - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/chatgpt-auto-refresh/#readme">ChatGPT Auto Refresh</a> - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/chatgpt-auto-refresh/#readme">
-            <img width=600 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-auto-refresh@1406eb7/assets/images/screenshots/gm-toggle%2Bnotification.png"></a>
+        <a href="https://codeberg.org/adamlui/chatgpt-auto-refresh/#readme">
+            <img width=600 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-auto-refresh/e624f14/assets/images/screenshots/gm-toggle%2Bnotification.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://github.com/adamlui/ai-web-extensions/tree/main/chatgpt-auto-refresh/#-installation">
+        💾 <a href="https://codeberg.org/adamlui/chatgpt-auto-refresh/raw/branch/main/greasemonkey/chatgpt-auto-refresh.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/chatgpt-auto-refresh/#readme">
+        📖 <a href="https://codeberg.org/adamlui/chatgpt-auto-refresh/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-auto-refresh/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-auto-refresh/issues">
+        🐛 <a href="https://codeberg.org/adamlui/chatgpt-auto-refresh/issues">
             Report bug</a>
     </blockquote>
 </details>
 
 <details> <!-- ChatGPT Auto-Talk -->
-    <summary><a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">ChatGPT Auto-Talk</a> - Automatically play ChatGPT responses.</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/chatgpt-auto-talk/#readme">ChatGPT Auto-Talk</a> - Automatically play ChatGPT responses.</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">
-            <img width=300 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-auto-talk@4ff7545/assets/images/screenshots/auto-talk-sidebar-toggle-enabled.png"></a>
-        <a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">
-            <img width=300 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-auto-talk@4ff7545/assets/images/screenshots/auto-talk-on-notif.png"></a>
+        <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/#readme">
+            <img width=300 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-auto-talk/165096f/assets/images/screenshots/auto-talk-sidebar-toggle-enabled.png"></a>
+        <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/#readme">
+            <img width=300 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-auto-talk/165096f/assets/images/screenshots/auto-talk-on-notif.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://github.com/adamlui/ai-web-extensions/tree/main/chatgpt-auto-talk/#-installation">
+        💾 <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/raw/branch/main/greasemonkey/chatgpt-auto-talk.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">
+        📖 <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-auto-talk/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-auto-talk/issues">
+        🐛 <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -799,19 +787,17 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- ChatGPT Infinity -->
-    <summary><a href="https://github.com/adamlui/chatgpt-infinity/#readme">ChatGPT Infinity</a> - Generate endless answers from all-knowing ChatGPT (on any topic!)</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/chatgpt-infinity/#readme">ChatGPT Infinity</a> - Generate endless answers from all-knowing ChatGPT (on any topic!)</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/chatgpt-infinity/#readme">
-            <img width=600 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-infinity@4a7bac9/assets/images/tiles/marquee/tile-625x250.png"></a>
+        <a href="https://codeberg.org/adamlui/chatgpt-infinity/#readme">
+            <img width=600 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-infinity/34fb8e5/assets/images/tiles/marquee/tile-625x250.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/6419/chatgpt-infinity.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/chatgpt-infinity/#readme">
+        📖 <a href="https://codeberg.org/adamlui/chatgpt-infinity/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-infinity/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-infinity/issues">
+        🐛 <a href="https://codeberg.org/adamlui/chatgpt-infinity/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -825,19 +811,17 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- ChatGPT Widescreen -->
-    <summary><a href="https://github.com/adamlui/chatgpt-widescreen/#readme">ChatGPT Widescreen</a> - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/chatgpt-widescreen/#readme">ChatGPT Widescreen</a> - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/chatgpt-widescreen/#readme">
+        <a href="https://codeberg.org/adamlui/chatgpt-widescreen/#readme">
             <img width=600 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-widescreen/91656d3/assets/images/tiles/marquee/tile-625x250.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/6328/chatgpt-widescreen.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/chatgpt-widescreen/#readme">
+        📖 <a href="https://codeberg.org/adamlui/chatgpt-widescreen/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-widescreen/issues">
+        🐛 <a href="https://codeberg.org/adamlui/chatgpt-widescreen/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1365,19 +1349,17 @@ Userscripts can be used w/ the following browsers:
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/incognito/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/incognito/black/icon32.png"></picture> Privacy
 
 <details> <!-- Autoclear ChatGPT History -->
-    <summary><a href="https://github.com/adamlui/autoclear-chatgpt-history/#readme">Autoclear ChatGPT History</a> - Auto-clears chat history when visiting chatgpt.com for maximum privacy.</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/#readme">Autoclear ChatGPT History</a> - Auto-clears chat history when visiting chatgpt.com for maximum privacy.</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/autoclear-chatgpt-history/#readme">
-            <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/autoclear-chatgpt-history@4f5c5fa/assets/images/screenshots/demo.png"></a>
+        <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/#readme">
+            <img width=511 src="https://cdn.staticdelivr.com/gl/adamlui/autoclear-chatgpt-history/30efed0/assets/images/screenshots/demo.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/adamlui/autoclear-chatgpt-history/refs/heads/main/greasemonkey/autoclear-chatgpt-history.user.js">
+        💾 <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/raw/branch/main/greasemonkey/autoclear-chatgpt-history.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/autoclear-chatgpt-history/#readme">
+        📖 <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/autoclear-chatgpt-history/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/autoclear-chatgpt-history/issues">
+        🐛 <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1421,19 +1403,17 @@ Userscripts can be used w/ the following browsers:
 ### <img height=19 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@4594000/assets/images/icons/sites/quora/icon32.png"> Quora
 
 <details> <!-- Block Quora Poe -->
-    <summary><a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">Block Quora Poe</a> - Blocks low-quality AI + Promoted/Sponsored answers from Quora.</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/userscripts/src/branch/master/block-quora-poe/#readme">Block Quora Poe</a> - Blocks low-quality AI + Promoted/Sponsored answers from Quora.</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
+        <a href="https://codeberg.org/adamlui/userscripts/src/branch/master/block-quora-poe/#readme">
             <img width=511 src="https://cdn.staticdelivr.com/gl/adamlui/userscripts/a1eefef/block-quora-poe/assets/images/screenshots/demo.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/adamlui/userscripts/master/block-quora-poe/block-quora-poe.user.js">
+        💾 <a href="https://scriptcat.org/scripts/code/6906/block-quora-poe.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
+        📖 <a href="https://codeberg.org/adamlui/userscripts/src/branch/master/block-quora-poe/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/userscripts/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/userscripts/issues">
+        🐛 <a href="https://codeberg.org/adamlui/userscripts/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1499,21 +1479,19 @@ Userscripts can be used w/ the following browsers:
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/soundwaves/white/icon32.png"><img height=18 width=21 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/soundwaves/black/icon32.png"></picture> Text-to-speech
 
 <details> <!-- ChatGPT Auto-Talk -->
-    <summary><a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">ChatGPT Auto-Talk</a> - Automatically play ChatGPT responses.</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/chatgpt-auto-talk/#readme">ChatGPT Auto-Talk</a> - Automatically play ChatGPT responses.</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">
-            <img width=300 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-auto-talk@4ff7545/assets/images/screenshots/auto-talk-sidebar-toggle-enabled.png"></a>
-        <a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">
-            <img width=300 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-auto-talk@4ff7545/assets/images/screenshots/auto-talk-on-notif.png"></a>
+        <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/#readme">
+            <img width=300 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-auto-talk/165096f/assets/images/screenshots/auto-talk-sidebar-toggle-enabled.png"></a>
+        <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/#readme">
+            <img width=300 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-auto-talk/165096f/assets/images/screenshots/auto-talk-on-notif.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://github.com/adamlui/ai-web-extensions/tree/main/chatgpt-auto-talk/#-installation">
+        💾 <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/raw/branch/main/greasemonkey/chatgpt-auto-talk.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">
+        📖 <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-auto-talk/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-auto-talk/issues">
+        🐛 <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/issues">
             Report bug</a>
     </blockquote>
 </details>
