@@ -395,7 +395,7 @@ Userscripts can be used w/ the following browsers:
                     <a href="https://www.mises.site/download" title="Download Mises">
                         <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/qr-codes/browsers/mises/download-page/with-icon/purple.png"
                              width=125 alt="[Download Mises]"></a>
-                </detail>
+                </details>
             </td>
         </tr>
         <tr> <!-- LEMUR Android/iOS -->
@@ -443,7 +443,7 @@ Userscripts can be used w/ the following browsers:
                     <a href="https://www.quetta.net" title="Quetta">
                         <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/qr-codes/browsers/quetta/homepage/with-icon/red.png"
                              width=125 alt="[Quetta]"></a>
-                </detail>
+                </details>
             </td>
         </tr>
         <tr> <!-- ORION iOS/iPadOS -->
@@ -1459,7 +1459,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- Letterboxd Link Badges -->
-    <summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Letterboxd_Link_Badges.readme.md">Letterboxd Link Badges</a> Enhances Letterboxd film pages by replacing IMDb/TMDb text links with icons and adding direct "Watch on Stremio" badges.</summary><br>
+    <summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Letterboxd_Link_Badges.readme.md">Letterboxd Link Badges</a> - Enhances Letterboxd film pages by replacing IMDb/TMDb text links with icons and adding direct "Watch on Stremio" badges.</summary><br>
     <blockquote>
         <a href="https://github.com/sinazadeh/userscripts/blob/main/Letterboxd_Link_Badges.readme.md">
             <img src="https://github.com/user-attachments/assets/c389af0c-6dd7-41d6-8695-d1bbfc7c5004"></a>
