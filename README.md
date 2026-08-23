@@ -65,7 +65,7 @@ Userscripts can be used w/ the following browsers:
     <tbody align="center">
         <tr> <!-- CHROME/CHROMIUM desktop -->
             <td> <!-- Browser -->
-                <a href="https://www.chrome.com" title="Chrome">
+                <a href="https://www.google.com/chrome/" title="Chrome">
                     <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/chrome/icon16.png"
                          width=16 alt="[Install]"></a>
                 Chrome, dev builds or Chromium-based browsers (Windows, macOS, Linux)
@@ -98,7 +98,7 @@ Userscripts can be used w/ the following browsers:
                         OrangeMonkey</a><sup>1,2</sup>
             </td>
             <td> <!-- Install browser -->
-                <a href="https://www.chrome.com" title="Chrome">
+                <a href="https://www.google.com/chrome/" title="Chrome">
                     <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/chrome/icon16.png"
                          width=16 alt="[Chrome]"></a>
                 <a href="https://www.google.com/chrome/beta/" title="Chrome Beta">
@@ -284,7 +284,7 @@ Userscripts can be used w/ the following browsers:
                 <a href="https://download.mozilla.org/?product=firefox-nightly-stub" title="Firefox Nightly">
                     <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/firefox/nightly/icon16.png"
                          width=16 alt="[Firefox Nightly]"></a>
-                <a href="https://www.waterfox.net" title="Waterfox">
+                <a href="https://www.waterfox.com/" title="Waterfox">
                     <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/waterfox/icon16.png"
                          width=16 alt="[Waterfox]"></a>
                 <a href="https://librewolf.net" title="LibreWolf">
@@ -920,19 +920,19 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- Fandom Focus -->
-    <summary><a href="https://greasyfork.org/scripts/528895">Fandom Focus</a> - Removes all distractions and unnecessary clutter from Fandom.</summary><br>
+    <summary><a href="https://greasyfork.org/scripts/528895-fandom-focus">Fandom Focus</a> - Removes all distractions and unnecessary clutter from Fandom.</summary><br>
     <blockquote>
-        <a href="https://greasyfork.org/scripts/528895">
+        <a href="https://greasyfork.org/scripts/528895-fandom-focus">
             <img width=720 src="https://raw.githubusercontent.com/samerop/fandom-focus/main/after.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://update.greasyfork.org/scripts/528895/Fandom%20Focus.user.js">
             Install</a> /
-        📖 <a href="https://greasyfork.org/scripts/528895">
+        📖 <a href="https://greasyfork.org/scripts/528895-fandom-focus">
             Readme</a> /
-        📢 <a href="https://greasyfork.org/scripts/528895/feedback">
+        📢 <a href="https://greasyfork.org/scripts/528895-fandom-focus/feedback">
             Discuss</a> /
-        🐛 <a href="https://greasyfork.org/scripts/528895/feedback">
+        🐛 <a href="https://greasyfork.org/scripts/528895-fandom-focus/feedback">
             Report bug</a>
     </blockquote>
 </details>
@@ -996,19 +996,19 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- GitHub Make Tooltips -->
-    <summary><a href="https://greasyfork.org/scripts/22194">GitHub Make Tooltips</a> - Convert all titles into GitHub tooltips.</summary><br>
+    <summary><a href="https://greasyfork.org/scripts/22194-github-make-tooltips">GitHub Make Tooltips</a> - Convert all titles into GitHub tooltips.</summary><br>
     <blockquote>
-        <a href="https://greasyfork.org/scripts/22194">
+        <a href="https://greasyfork.org/scripts/22194-github-make-tooltips">
             <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/github-make-tooltips.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://update.greasyfork.org/scripts/22194/GitHub%20Make%20Tooltips.user.js">
             Install</a> /
-        📖 <a href="https://greasyfork.org/en/scripts/22194-github-make-tooltips">
+        📖 <a href="https://greasyfork.org/scripts/22194-github-make-tooltips">
             Readme</a> /
-        📢 <a href="https://greasyfork.org/en/scripts/22194-github-make-tooltips/feedback">
+        📢 <a href="https://greasyfork.org/scripts/22194-github-make-tooltips/feedback">
             Discuss</a> /
-        🐛 <a href="https://greasyfork.org/en/scripts/22194-github-make-tooltips/feedback">
+        🐛 <a href="https://greasyfork.org/scripts/22194-github-make-tooltips/feedback">
             Report bug</a>
     </blockquote>
 </details>
@@ -1091,11 +1091,11 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/Kirlovon/classic-google-tabs">Classic Google Tabs</a> - Brings back the "Maps" tab and removes the "AI Mode" tab in Google Search.</summary><br>
     <blockquote>
         <a href="https://github.com/Kirlovon/classic-google-tabs">
-            <img src="https://github.com/Kirlovon/classic-google-tabs/raw/main/assets/poster.webp"></a>
+            <img src="https://raw.githubusercontent.com/Kirlovon/classic-google-tabs/main/assets/poster.webp"></a>
         <p>This is a simple Userscript that reworks Google Search navigation tabs by removing the "AI Mode" tab, restoring the "Maps" tab, and optionally removing the "Short videos" tab.</p>
     </blockquote>
     <blockquote>
-        💾 <a href="https://github.com/Kirlovon/classic-google-tabs/raw/refs/heads/main/classic-google-tabs.user.js">
+        💾 <a href="https://raw.githubusercontent.com/Kirlovon/classic-google-tabs/main/classic-google-tabs.user.js">
             Install</a> /
         📖 <a href="https://github.com/Kirlovon/classic-google-tabs/blob/main/README.md">
             Readme</a> /
@@ -1147,7 +1147,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/share-google-slides-controls.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://github.com/LostInBrittany/share-google-slides-control/raw/refs/heads/main/userscript/shared-google-slides-control.user.js">
+        💾 <a href="https://raw.githubusercontent.com/LostInBrittany/share-google-slides-control/main/userscript/shared-google-slides-control.user.js">
             Install</a> /
         📖 <a href="https://github.com/LostInBrittany/share-google-slides-control/#readme">
             Readme</a> /
@@ -1257,9 +1257,9 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://i.imgur.com/cGtifHN.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://github.com/qsniyg/maxurl/blob/master/userscript_smaller.user.js?raw=true">
+        💾 <a href="https://raw.githubusercontent.com/qsniyg/maxurl/master/userscript_smaller.user.js">
             Install Stable Build</a> /
-        💾 <a href="https://github.com/qsniyg/maxurl/blob/master/userscript.user.js?raw=true">
+        💾 <a href="https://raw.githubusercontent.com/qsniyg/maxurl/master/userscript.user.js">
             Install Dev Build</a> /
         📖 <a href="https://github.com/qsniyg/maxurl/#readme">
             Readme</a> /
@@ -1614,7 +1614,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/youtube-commenter-names.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d/raw/youtube-commenter-names.user.js">
+        💾 <a href="https://gist.githubusercontent.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d/raw/youtube-commenter-names.user.js">
             Install</a> /
         📢 <a href="https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d">
             Discuss</a> /
@@ -1629,7 +1629,7 @@ Userscripts can be used w/ the following browsers:
         <p>This prevents playlists, shorts, and hovered videos on the home page from autoplaying.</p>
     </blockquote>
     <blockquote>
-        💾 <a href="https://gist.github.com/lumynou5/b036f405a0888bf9c3b9a3f560e36f3d/raw/youtube-disable-autoplaying.user.js">
+        💾 <a href="https://gist.githubusercontent.com/lumynou5/b036f405a0888bf9c3b9a3f560e36f3d/raw/youtube-disable-autoplaying.user.js">
             Install</a> /
         📢 <a href="https://gist.github.com/lumynou5/b036f405a0888bf9c3b9a3f560e36f3d">
             Discuss</a> /
@@ -1665,7 +1665,7 @@ Userscripts can be used w/ the following browsers:
         </a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://github.com/RobertWesner/YouTube-Play-All/raw/main/script.user.js">
+        💾 <a href="https://raw.githubusercontent.com/RobertWesner/YouTube-Play-All/main/script.user.js">
             Install</a> /
         📖 <a href="https://github.com/RobertWesner/YouTube-Play-All/#readme">
             Readme</a> /
@@ -1681,7 +1681,7 @@ Userscripts can be used w/ the following browsers:
 ## Tutorials
 
   - [Greasemonkey Hacks](https://www.oreilly.com/library/view/greasemonkey-hacks/0596101651/pr05s02.html) - Complete wiki book on Userscripts.
-  - [Greasemonkey Tutorial for Beginners](http://hayageek.com/greasemonkey-tutorial/) - How to create simple Userscripts and installing it using Greasemonkey.
+  - [Greasemonkey Tutorial for Beginners](https://hayageek.com/greasemonkey-tutorial/) - How to create simple Userscripts and installing it using Greasemonkey.
   - [Video - GreaseMonkey Userscript Development](https://www.youtube.com/watch?v=hAeWOOJPp0o)
   - [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) - A Vite plugin to develop and build userscripts for Tampermonkey, Violentmonkey, Greasemonkey, and ScriptCat.
 
@@ -1689,7 +1689,7 @@ Userscripts can be used w/ the following browsers:
 
 ## Additional Catalogues
 
-* [UserScripts Mirror](http://userscripts-mirror.org/) - Mirror of the original Userscripts.org repository (that is currently down).
+* [UserScripts Mirror](https://userscripts-mirror.org/) - Mirror of the original Userscripts.org repository (that is currently down).
 * [Greasy Fork](https://greasyfork.org/)
 * [OpenUserJS](https://openuserjs.org/)
 
@@ -1698,7 +1698,6 @@ Userscripts can be used w/ the following browsers:
 ## Community
 
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/userscripts)
-* [`#greasemonkey` on Freenode](http://webchat.freenode.net/?channels=greasemonkey)
 * [`r/userscripts` on Reddit](https://www.reddit.com/r/userscripts/)
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
@@ -1720,7 +1719,7 @@ Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-
 
 ## License
 
-[![CC0](http://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@8e22f63/assets/images/badges/zero-1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@8e22f63/assets/images/badges/zero-1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, contributors have waived all copyright and related or neighboring rights to this work.
 
