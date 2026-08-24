@@ -1558,16 +1558,16 @@ Userscripts can be used w/ the following browsers:
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/icon32.png"></picture> YouTube
 
 <details> <!-- Disable YouTube Hotkeys with Modern Settings Page -->
-    <summary><a href="https://greasyfork.org/en/scripts/563265-disable-youtube-hotkeys-with-modern-settings-page">Disable YouTube Hotkeys</a> - with Modern Settings Page</summary><br>
+    <summary><a href="https://greasyfork.org/en/scripts/563265-disable-youtube-hotkeys-with-modern-settings-page">Disable YouTube Hotkeys with Modern Settings Page</a> - Blocks selected YouTube hotkeys with fine-grained controls.</summary><br>
     <blockquote>
-        <p>Disable various YouTube hotkeys with fine-grained control (Excludes Search/Comments)</p>
+        <p>Blocking pauses while typing in search, comments, chat, and other text fields.</p>
     </blockquote>
     <blockquote>
-        💾 <a href="https://greasyfork.org/en/scripts/563265-disable-youtube-hotkeys-with-modern-settings-page">
+        💾 <a href="https://update.greasyfork.org/scripts/563265/Disable%20YouTube%20Hotkeys%20with%20Modern%20Settings%20Page.user.js">
             Install</a> /
-        📢 <a href="https://yt-hotkeys.vkrishna04.me/">
-            View</a> /
-        🐛 <a href="https://github.com/Life-Experimentalist/Youtube-Keystrokes-Blocker/">
+        📖 <a href="https://github.com/Life-Experimentalist/Youtube-Keystrokes-Blocker#readme">
+            Readme</a> /
+        🐛 <a href="https://github.com/Life-Experimentalist/Youtube-Keystrokes-Blocker/issues">
             Report bug</a>
     </blockquote>
 </details>
