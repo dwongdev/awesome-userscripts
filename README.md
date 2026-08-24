@@ -33,6 +33,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [Discord](#-discord)
   - [Display](#-display)
   - [DuckDuckGo](#-duckduckgo)
+  - [Fandom](#-fandom)
   - [GitHub](#-github)
   - [Google](#-google)
   - [Instagram](#-instagram)
@@ -919,25 +920,6 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
-<details> <!-- Fandom Focus -->
-    <summary><a href="https://greasyfork.org/scripts/528895-fandom-focus">Fandom Focus</a> - Removes all distractions and unnecessary clutter from Fandom.</summary><br>
-    <blockquote>
-        <a href="https://greasyfork.org/scripts/528895-fandom-focus">
-            <img width=720 src="https://raw.githubusercontent.com/samerop/fandom-focus/main/after.png"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://update.greasyfork.org/scripts/528895/Fandom%20Focus.user.js">
-            Install</a> /
-        📖 <a href="https://greasyfork.org/scripts/528895-fandom-focus">
-            Readme</a> /
-        📢 <a href="https://greasyfork.org/scripts/528895-fandom-focus/feedback">
-            Discuss</a> /
-        🐛 <a href="https://greasyfork.org/scripts/528895-fandom-focus/feedback">
-            Report bug</a>
-    </blockquote>
-</details>
-
-
 <details> <!-- Font Rendering (Customized) -->
     <summary><a href="https://github.com/F9y4ng/GreasyFork-Scripts/blob/master/README_EN.md#font-rendering-customized-font-renderinguserjs">Font Rendering (Customized)</a> - Customize font rendering on any website: font replacement, anti-aliasing, stroke, shadow, and more.</summary><br>
     <blockquote>
@@ -970,6 +952,26 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://github.com/KudoAI/duckduckgpt/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/KudoAI/duckduckgpt/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://www.fandom.com/favicon.ico"><img height=18 src="https://www.fandom.com/favicon.ico"></picture> Fandom
+
+<details> <!-- Fandom Focus -->
+    <summary><a href="https://greasyfork.org/scripts/528895-fandom-focus">Fandom Focus</a> - Removes all distractions and unnecessary clutter from Fandom.</summary><br>
+    <blockquote>
+        <a href="https://greasyfork.org/scripts/528895-fandom-focus">
+            <img width=720 src="https://raw.githubusercontent.com/samerop/fandom-focus/main/after.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/528895/Fandom%20Focus.user.js">
+            Install</a> /
+        📖 <a href="https://greasyfork.org/scripts/528895-fandom-focus">
+            Readme</a> /
+        📢 <a href="https://greasyfork.org/scripts/528895-fandom-focus/feedback">
+            Discuss</a> /
+        🐛 <a href="https://greasyfork.org/scripts/528895-fandom-focus/feedback">
             Report bug</a>
     </blockquote>
 </details>
