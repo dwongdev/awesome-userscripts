@@ -1560,7 +1560,7 @@ Userscripts can be used w/ the following browsers:
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/icon32.png"></picture> YouTube
 
 <details> <!-- Disable YouTube Hotkeys with Modern Settings Page -->
-    <summary><a href="https://greasyfork.org/en/scripts/563265-disable-youtube-hotkeys-with-modern-settings-page">Disable YouTube Hotkeys with Modern Settings Page</a> - Blocks selected YouTube hotkeys with fine-grained controls.</summary><br>
+    <summary><a href="https://greasyfork.org/en/scripts/563265-disable-youtube-hotkeys-with-modern-settings-page">Disable YouTube Hotkeys with Modern Settings Page</a> - Blocks selected YouTube hotkeys with fine-grained control.</summary><br>
     <blockquote>
         <p>Blocking pauses while typing in search, comments, chat, and other text fields.</p>
     </blockquote>
