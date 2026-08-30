@@ -615,7 +615,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/#readme">Amazon Wishlist Search</a> - Adds a search input field to the wishlist dropdown (supports regex search).</summary><br>
     <blockquote>
         <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/#readme">
-            <img width=511 src="https://raw.githubusercontent.com/jhyland87/userscript-amazon-wishlist-search/refs/heads/main/assets/amazon-wishlist-search-demo-480.gif"></a>
+            <img width=511 src="https://raw.githubusercontent.com/jhyland87/userscript-amazon-wishlist-search/615848b1f5977ce9245b4aea797e9bcfb9aaddc7/assets/amazon-wishlist-search-demo-480.Aug-25-2026.gif"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/releases/latest/download/amazon-wishlist-search.user.js">
