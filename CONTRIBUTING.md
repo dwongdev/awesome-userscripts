@@ -27,7 +27,7 @@ Descriptions should explain what the script does without promotional language, d
 
 Match surrounding README markup. Use these link labels consistently:
 
-- 💾 `Install` for a direct userscript installation link.
+- 💾 `Install` for a direct userscript installation link. Use `Install <variant>` when multiple builds or editions are available.
 - 📖 `Readme` for documentation.
 - 📢 `Discuss` for a discussion or community page.
 - 🐛 `Report bug` for an issue tracker.
